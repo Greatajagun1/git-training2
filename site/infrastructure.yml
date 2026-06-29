@@ -6,3 +6,7 @@ server:
 operating_system:
   name: "Ubuntu"
   version: "20.04"
+
+  operating_system:
+  name: "Ubuntu"
+  version: "20.04"
